@@ -13,7 +13,7 @@ from streamlit_autorefresh import st_autorefresh
 # ============================================================
 # CONFIG
 # ============================================================
-BINANCE_BASE = "https://api.binance.com/api/v3"
+BINANCE_BASE = "https://data-api.binance.vision/api/v3"
 SYMBOLS = ["BTCUSDT", "ETHUSDT", "AVAXUSDT"]
 LABELS = {"BTCUSDT": "BTC/USDT", "ETHUSDT": "ETH/USDT", "AVAXUSDT": "AVAX/USDT"}
 
